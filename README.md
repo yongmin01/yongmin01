@@ -1,5 +1,5 @@
 ### Yongmin's Github 🐯
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongmin01&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongmin01)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yongmin01/yongmin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
